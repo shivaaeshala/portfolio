@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1de78d62.css",
+    "main.js": "/portfolio/static/js/main.1cd32212.js",
+    "static/js/787.5c0b2d12.chunk.js": "/portfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/smalltalk.png": "/portfolio/static/media/smalltalk.1c842830da02e89159c4.png",
+    "static/media/Aeshala_Sadha_Shiva.pdf": "/portfolio/static/media/Aeshala_Sadha_Shiva.c202b0fdb1633e9167fd.pdf",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/vcemun.png": "/portfolio/static/media/vcemun.5b87c2763fde1d1a1bcf.png",
+    "static/media/myimage.jpg": "/portfolio/static/media/myimage.61b899825eda12c49175.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/3676.jpg": "/portfolio/static/media/3676.c757c7dedf8ec42a049d.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.1de78d62.css.map": "/portfolio/static/css/main.1de78d62.css.map",
+    "main.1cd32212.js.map": "/portfolio/static/js/main.1cd32212.js.map",
+    "787.5c0b2d12.chunk.js.map": "/portfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de78d62.css",
+    "static/js/main.1cd32212.js"
+  ]
+}
