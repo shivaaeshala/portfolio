@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="Gesture-Based Authentication System"
               description="Built a gesture recognition system using convolutional neural networks (CNNs) to enable secure, contactless authentication in various lighting conditions. Applied OpenCV and TensorFlow for video preprocessing and neural network training."
-              ghLink="#"           
+              ghLink="https://github.com/shivaaeshala/Gesture-based-authentication-system"           
             />
           </Col>
           {/* 
